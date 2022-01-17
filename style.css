@@ -1,0 +1,28 @@
+body{
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+button{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 200px;
+}
+
+.btn_back{
+    float: right;
+}
