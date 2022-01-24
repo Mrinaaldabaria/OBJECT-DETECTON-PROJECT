@@ -1,3 +1,4 @@
+
 function bed_room() {
     window.location = "bed_room.html";
 }
@@ -17,3 +18,5 @@ function bottles() {
 function fruit_baskets() {
     window.location = "fruit_baskets.html";
 }
+
+
